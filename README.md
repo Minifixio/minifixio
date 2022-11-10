@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+I'm currently doing my first year of a Computer Science engineer degree at [Télécom Paris](telecom-paris.fr).
+
+I mainly use tech such as Angular, Ionic, nodeJS and Python.
+
+You can find more about my projects here : [minifixio.github.io](minifixio.github.io)
 
 <!--
 **Minifixio/minifixio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
