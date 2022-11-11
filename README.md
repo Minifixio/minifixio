@@ -4,7 +4,7 @@ I'm currently doing my first year of a Computer Science engineer degree at [Tél
 
 I mainly use tech such as Angular, Ionic, nodeJS and Python.
 
-You can find more about my projects here : [minifixio.github.io](minifixio.github.io)
+You can find more about my projects here : [minifixio.github.io](https://minifixio.github.io)
 
 <!--
 **Minifixio/minifixio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
