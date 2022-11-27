@@ -1,6 +1,6 @@
 ### About me
 
-I'm currently doing my first year of a Computer Science engineer degree at [Télécom Paris](telecom-paris.fr).
+I'm currently doing my first year of a Computer Science engineer degree at [Télécom Paris](https://telecom-paris.fr).
 
 I mainly use tech such as Angular, Ionic, nodeJS and Python.
 
