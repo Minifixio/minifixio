@@ -1,8 +1,6 @@
 ### About me
 
-First year of CS engineer degree at [Télécom Paris](https://telecom-paris.fr).
-
-I mainly use tech such as Angular, Ionic, nodeJS and Python.
+Second year of CS engineer degree at [Télécom Paris](https://telecom-paris.fr).
 
 You can find more about my projects here : [my portfolio](https://emile.le-gallic.com)
 
