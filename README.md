@@ -1,6 +1,6 @@
 ### About me
 
-Second year of CS engineer degree at [Télécom Paris](https://telecom-paris.fr).
+Computer Science student at [Télécom Paris](https://telecom-paris.fr).
 
 You can find more about my projects here : [my portfolio](https://emile.le-gallic.com)
 
